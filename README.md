@@ -1,61 +1,82 @@
-# MockGen -- App Store Screenshot Generator
+# 📱 Neon Glass Calculator
 
-MockGen is a professional screenshot generator designed to help
-developers, designers, and marketers create beautiful App Store and
-Google Play Store screenshots effortlessly.
+A modern, elegant, and responsive calculator built entirely with **Jetpack Compose** — featuring glass-morphism UI, neon glow effects, smooth animations, and complete calculation logic.
 
-## 🚀 Features
+---
 
--   **iOS & Android Screenshot Templates**\
-    Fully optimized templates for App Store and Google Play.
+## ✨ Overview
 
--   **Bulk Screenshot Upload**\
-    Upload multiple screenshots at once (PNG, JPG, JPEG).
+**Neon Glass Calculator** combines premium UI design with high performance and simplicity.  
+It delivers a visually impressive experience through:
 
--   **Custom Backgrounds**\
-    Choose gradients, solid colors, or custom color combinations.
+- Glass-Morphism interface  
+- Neon blue & pink glow effects  
+- Blurred transparent layers  
+- Smooth and fast user interaction  
+- Clean and minimalist layout
 
--   **Template Variety**\
-    Tilted shots, device frames, modern layouts, and more.
+The app focuses on premium aesthetics while keeping the calculator fully functional and extremely responsive.
 
--   **Real-time Preview**\
-    Instantly see how your screenshots will look on the store.
+---
 
--   **Download All**\
-    Export all generated screenshots in one click.
+## 🎨 Features
 
-## 📸 How It Works
+### 🌟 UI & Design
+- Stunning **glass-style buttons** with transparency & shadows  
+- **Neon glowing background** (Blue / Pink)  
+- Radial & linear **gradient effects**  
+- Squircle rounded buttons  
+- Fully responsive layout for all screen sizes  
+- Premium interaction experience (no ripple, smooth touch feedback)
 
-1.  **Upload your screenshots.**
-2.  **Choose a template** from professionally designed options.
-3.  **Customize** text, colors, gradient, and layout.
-4.  **Save your final images** ready for publishing.
+---
 
-## 🛠 Tech Stack
+### ⚙️ Functionality
+Includes all essential calculator operations:
 
--   **Frontend:** Modern web technologies
--   **UI/UX:** Clean and conversion‑optimized design
--   **Tools:** Image manipulation, template rendering
+`+` `−` `×` `÷` `%` `±` `.` `=` `C` `⌫`
 
-## 📱 Why MockGen?
+- Real-time expression building  
+- Error handling for invalid inputs  
+- Smart output formatting  
+- Prevents double operators & invalid sequences  
 
-Because high‑quality screenshots dramatically increase your app's
-installs. MockGen ensures: - Professional look\
-- Rapid screenshot generation\
-- Zero design skills needed
+---
 
-## 🧑‍💻 Developer Notes
+## 🚀 Performance
 
-MockGen was built to simplify the screenshot creation workflow for
-developers and marketers looking to publish apps quickly with
-professional visuals.
+- 100% **Jetpack Compose**, no XML  
+- Optimized state management using `remember` + `mutableStateOf`  
+- Minimal recomposition for high performance  
+- Lightweight and clean architecture  
 
-## 📄 License
+---
 
-This project is provided for personal and commercial use. All rights
-reserved unless stated otherwise.
+## 🧠 Technologies Used
 
-------------------------------------------------------------------------
+| Category      | Tech |
+|---------------|------|
+| Language      | Kotlin |
+| UI            | Jetpack Compose |
+| Theme         | Material 3 |
+| Architecture  | Stateless composables + simple state holder |
+| Styling       | Gradients, blur, neon glow |
+| Tools         | Android Studio Iguana / Jellyfish |
 
-Made by **MockGen**\
-Follow us: **@aykasem001**
+---
+
+## 🖼️ Screenshots
+![Screenshot 1](images/1.png)
+![Screenshot 2](images/2.png)
+![Screenshot 3](images/3.png)
+
+---
+
+## ❤️ Author
+
+**Ahmed Mohamed**  
+Android Developer — Kotlin | Jetpack Compose | UI/UX  
+
+If you'd like to collaborate on stylish UI apps or need a premium interface built with Compose, feel free to reach out!
+
+---
