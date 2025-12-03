@@ -1,4 +1,4 @@
-# 📱 Neon Glass Calculator
+# 📱 Modern Calculator App 
 
 A modern, elegant, and responsive calculator built entirely with **Jetpack Compose** — featuring glass-morphism UI, neon glow effects, smooth animations, and complete calculation logic.
 
@@ -6,7 +6,7 @@ A modern, elegant, and responsive calculator built entirely with **Jetpack Compo
 
 ## ✨ Overview
 
-**Neon Glass Calculator** combines premium UI design with high performance and simplicity.  
+**Modern Calculator App** combines premium UI design with high performance and simplicity.  
 It delivers a visually impressive experience through:
 
 - Glass-Morphism interface  
