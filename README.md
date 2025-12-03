@@ -66,9 +66,12 @@ Includes all essential calculator operations:
 ---
 
 ## 🖼️ Screenshots
-![Screenshot 1](image/1.png)
-![Screenshot 2](image/2.png)
-![Screenshot 3](image/3.png)
+
+<p align="center">
+  <img src="image/1.png" width="250" />
+  <img src="image/2.png" width="250" />
+  <img src="image/3.png" width="250" />
+</p>
 
 ---
 
