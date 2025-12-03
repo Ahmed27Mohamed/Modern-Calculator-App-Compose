@@ -66,9 +66,9 @@ Includes all essential calculator operations:
 ---
 
 ## 🖼️ Screenshots
-![Screenshot 1](images/1.png)
-![Screenshot 2](images/2.png)
-![Screenshot 3](images/3.png)
+![Screenshot 1](image/1.png)
+![Screenshot 2](image/2.png)
+![Screenshot 3](image/3.png)
 
 ---
 
